@@ -493,6 +493,18 @@
     [
       "f8c880ea-79c5-432f-81fa-d32cf5a8db8f",
       "Power Managment"
+    ],
+    [
+      "f5fed9ea-9b89-4a48-a50e-1d0f17677892",
+      "MCU"
+    ],
+    [
+      "5c23135d-a908-40c3-aaf4-a6c82b890ede",
+      "InputOutput"
+    ],
+    [
+      "ad20cdb6-2fed-49cf-855d-274aa53a7e77",
+      "Display"
     ]
   ],
   "text_variables": {}

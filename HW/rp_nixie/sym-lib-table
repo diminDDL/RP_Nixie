@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
   (lib (name "IRLML2803TRPBF")(type "Legacy")(uri "${KIPRJMOD}/lib/IRLML2803TRPBF/IRLML2803TRPBF.lib")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/lib/pico_w/RPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "pawpad")(type "KiCad")(uri "${KIPRJMOD}/lib/PawPad/pawpad.kicad_sym")(options "")(descr ""))
+  (lib (name "nixies-us")(type "Legacy")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.lib")(options "")(descr ""))
 )
